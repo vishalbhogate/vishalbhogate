@@ -1,0 +1,46 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: APRA AMCOS
+    i18n: company_f
+  desc:
+    detail: Building, improving terraform modules on project basis. Architect AWS-based Kubernetes solution using terraform. Develop CICD for Terraform and Application using DinD.
+    i18n: company_f_desc
+  date:
+    detail: Jan. 2021 - Present
+    i18n: company_f_date
+  job:
+    detail: Senior DevOps Engineer
+    i18n: company_f_job
+  icon: fa-code
+  present: true
+
+- name:
+    detail: Brighte Capital
+    i18n: company_f
+  desc:
+    detail: Building, improving terraform modules and used to migrate the client to AWS. Architect AWS-based ECS solution using terraform. Develop CICD for Terraform, Serverless and Application using DinD. Performed AWS SSO integration with azure ad.
+    i18n: company_f_desc
+  date:
+    detail: Jan. 2020 - Jan. 2021
+    i18n: company_f_date
+  job:
+    detail: Infrastructure Engineer Internship
+    i18n: company_f_job
+  icon: fa-code
+  present: true
+
+- name:
+    detail: Tata Consultancy Services
+    i18n: company_e
+  desc:
+    detail: Building, improving terraform modules and used to migrate the WESTPAC to AWS. Architect AWS-based ECS solution using terraform. Develop CICD for Terraform, Serverless and Application using DinD. Build, maintain on-premise cloud to provide Infrastructure Platform as a Service.
+    i18n: company_e_desc
+  date:
+    detail: Aug. 2018 - May. 2019
+    i18n: company_e_date
+  job:
+    detail: DevOps Engineer/Lead
+    i18n: company_e_job
+  icon: fa-plus-square
+  present: true
